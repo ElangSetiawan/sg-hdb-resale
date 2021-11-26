@@ -1,0 +1,30 @@
+name: dsif2_capstone
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8.11
+  - pandas>1.3.2
+  - jupyter
+  - ipython
+  - ipywidgets>=7.6.3
+  - notebook>=6.4.3
+  - pylint
+  - invoke
+  - joblib
+  - black
+  - nb_black
+  - shap
+  - seaborn
+  - scikit-learn
+  - scikit-learn-intelex
+  - imbalanced-learn
+  - xgboost
+  - plotly>=5.3.1
+  - pip
+  - pip:
+      - dash
+      - plotly-geo
+      - plot-metric
+      - lime
+      
