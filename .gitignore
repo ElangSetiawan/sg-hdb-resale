@@ -139,3 +139,4 @@ cython_debug/
 
 # Temporary project files
 data/raw/resale-flat-prices-based-on-registration-date-from-jan-2017-onwards.xlsx
+ignore/

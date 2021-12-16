@@ -1,0 +1,35 @@
+# Metadata for SLA Land Survey District
+---
+Identifier: '708b146f-ba5e-44f4-a16d-1b61ecbb2a96'
+Name: 'sla-land-survey-district'
+Title: 'SLA Land Survey District'
+Description: 'This dataset is the finished product of the Singapore Land Authority.
+  It depicts the entire survey district map of Singapore. The survey district boundaries
+  are adopted from the cadastral land lot boundaries.'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'MKTS boundary'
+  - 'Mukim'
+  - 'Town Subdivision'
+  - 'administrative districts'
+  - 'cadastral'
+  - 'survey district'
+Publisher:
+  Name: 'Singapore Land Authority'
+  Admin 1:
+    Name: 'Cindy Wong'
+    Department: 'SINGAPORE LAND AUTHORITY'
+    Email: 'sla_agencyadmin@sla.gov.sg'
+Sources:
+  - 'Singapore Land Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Daily'
+Last Updated: '2018-07-25T00:03:01.088624'
+Resources:
+  -
+    Identifier: '3f6b39de-4497-4372-ad1a-f0bfd30c6ebe'
+    Title: 'SLA Land Survey District (KML)'
+    Url: 'https://geo.data.gov.sg/sla-survey-district/2018/07/23/kml/sla-survey-district.kml'
+    Format: 'KML'
+    Last Updated: '2018-07-22T16:00:00'
