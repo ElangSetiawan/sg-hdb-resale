@@ -17,11 +17,11 @@ As data scientists, we want to understand the factors driving the price of resal
 
 **Model Explored**
 
-|Models|Description|
-|---|---|
-|Random Forest Regressor|
-|Extreme Gradient Boosting (XGBoost)|
-|Lasso Regression|
+|Models| 
+|---| 
+|Random Forest Regressor| 
+|Extreme Gradient Boosting (XGBoost)| 
+|Lasso Regression| 
 
 
 **Evaluation Metrics**
@@ -55,11 +55,11 @@ The site data.gov.sg provides both the hdb information dataset as well as the mo
 In this project, it is hypothesized that distance of hdb flat to nearby amenities such as MRT/LRT stations, schools, and shopping centres will be important, these geo informations are obtained via API from https://developers.onemap.sg/commonapi/search? since this provides free geolocation data unlike google map.
 
 **Workflow Process**  
-1. Notebook 1: 
-1.1. General EDA
-1.2. Geolocation feature engineering
+1. Notebook 1: <br>
+1.1. General EDA <br>
+1.2. Geolocation feature engineering <br>
 
-2. Notebook 2: 
-2.1. Data Preprocessing
-2.2  Modeling
-2.3. Model evaluation and hypertuning
+2. Notebook 2:  <br>
+2.1. Data Preprocessing <br>
+2.2  Modeling <br>
+2.3. Model evaluation and hypertuning <br>
